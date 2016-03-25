@@ -1,0 +1,14 @@
+# ~/.tmuxinator/awesome_app.yml
+
+name: awesome_app
+root: /Library/WebServer/Documents/vagrant/projects/behat8 
+
+
+windows:
+  - editor:
+      layout: main-vertical
+      panes:
+        - vim
+        - vagrant up
+	- cd source/behat8/drupal
+	

@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Library/LaunchDaemons'
+let g:netrw_dirhist_2='/usr/local/var/mysql'
+let g:netrw_dirhist_3='/Library/WebServer/Documents/vitalfiles/.git'
+let g:netrw_dirhist_4='/Users/tristanwellz/.tmuxinator'
