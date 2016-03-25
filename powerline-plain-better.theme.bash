@@ -1,1 +1,0 @@
-/Users/tristanwellz/.bash_it/themes/powerline-plain-better/powerline-plain-better.theme.bash
